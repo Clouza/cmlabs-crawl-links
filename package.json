@@ -1,0 +1,19 @@
+{
+  "name": "crawl-node",
+  "version": "1.0.0",
+  "description": "This is pre-assessment for backend position on cmlabs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^22.1.0",
+    "node-fetch": "^2.6.12"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
